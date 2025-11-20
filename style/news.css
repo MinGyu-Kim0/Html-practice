@@ -76,16 +76,16 @@ footer {
     margin: 5px;
 }
 
-.link-group li > a {
+.link-group li > a, .linkg-group li > a:visited {
     color: #606060;
     font-weight: 800;
 }
 
-.link-group li > a:visited {
+/* .link-group li > a:visited {
     color: #000;
     font-weight: 800;
 }
-
+*/
 .link-group li > a:hover {
     color: #ff0000;
     font-weight: 800;
